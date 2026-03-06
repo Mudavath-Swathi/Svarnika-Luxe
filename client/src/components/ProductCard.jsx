@@ -21,7 +21,7 @@ const ProductCard = ({ product }) => {
       {/* Image */}
       <div
         className="relative aspect-square rounded-2xl bg-black overflow-hidden"
-        onClick={() => navigate(`/product/${product._id}`)} // ✅ FIX
+        onClick={() => navigate(`/product/${product._id}`)} 
       >
         <img
           src={product.image}
