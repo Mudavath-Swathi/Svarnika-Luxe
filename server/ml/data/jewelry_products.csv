@@ -1,0 +1,21 @@
+id,name,category,price,material,style
+1,Emerald Cascade Necklace,Necklaces,480000,White Gold,Statement
+2,Diamond Vine Necklace,Necklaces,525000,White Gold,Classic
+3,Royal Sapphire Necklace,Necklaces,610000,White Gold,Luxury
+4,Pearl Grace Necklace,Necklaces,260000,Yellow Gold,Minimal
+5,Floral Radiance Earrings,Earrings,320000,White Gold,Floral
+6,Classic Diamond Drop Earrings,Earrings,295000,White Gold,Evening
+7,Emerald Stud Earrings,Earrings,210000,White Gold,Minimal
+8,Ruby Halo Earrings,Earrings,375000,Rose Gold,Statement
+9,Emerald Signature Ring,Rings,650000,White Gold,Statement
+10,Diamond Eternity Ring,Rings,410000,White Gold,Wedding
+11,Sapphire Promise Ring,Rings,280000,Yellow Gold,Classic
+12,Minimal Gold Band,Rings,120000,Yellow Gold,Minimal
+13,Diamond Heritage Bracelet,Bracelets,420000,White Gold,Luxury
+14,Classic Diamond Line Bracelet,Bracelets,380000,White Gold,Minimal
+15,Tennis Diamond Bracelet,Bracelets,510000,White Gold,Evening
+16,Gold Charm Bracelet,Bracelets,190000,Yellow Gold,Casual
+17,Opal Pendant Necklace,Necklaces,340000,Rose Gold,Modern
+18,Vintage Pearl Earrings,Earrings,250000,Yellow Gold,Vintage
+19,Art Deco Diamond Ring,Rings,720000,White Gold,Vintage
+20,Emerald Cuff Bracelet,Bracelets,460000,White Gold,Statement
