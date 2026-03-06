@@ -226,24 +226,6 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 ---
 
-📸 Screenshots
-
-You can add screenshots of the following pages:
-
-Homepage
-
-Shop page
-
-Product details page
-
-Admin dashboard
-
-Diamond AI predictor
-
-
-
----
-
 👩‍💻 Author
 
 Swathi Mudavath
