@@ -4,6 +4,8 @@ Svarnika Luxe is a full-stack luxury jewelry e-commerce platform built using the
 The platform allows users to browse jewelry collections, view product details, and explore AI-powered tools like Diamond Price Prediction and Product Recommendation.
 This project also includes a complete admin dashboard to manage products and orders.
 
+---
+
 🌐 Live Demo
 
 Frontend (Vercel)
@@ -11,6 +13,9 @@ https://svarnika-luxe.vercel.app
 
 Backend API (Render)
 https://svarnika-backend.onrender.com
+
+
+---
 
 ✨ Features
 
@@ -28,6 +33,9 @@ Secure authentication system
 
 Elegant modern UI with animations
 
+
+
+---
 
 🤖 AI Features
 
@@ -49,9 +57,16 @@ Table
 
 
 Model trained using Python and Scikit-learn.
+
+
+---
+
 Product Recommendation System
+
 Suggests similar jewelry items based on product attributes to improve user experience.
 
+
+---
 
 👨‍💻 Admin Features
 
@@ -70,6 +85,8 @@ Manage inventory
 View orders
 
 
+
+---
 
 🛠 Tech Stack
 
@@ -123,6 +140,7 @@ Image Storage
 Cloudinary
 
 
+---
 
 📂 Project Structure
 
@@ -148,6 +166,7 @@ Svarnika-Luxe
 └── README.md
 
 
+---
 
 ⚙️ Installation
 
@@ -155,25 +174,40 @@ Svarnika-Luxe
 
 git clone https://github.com/Mudavath-Swathi/Svarnika-Luxe.git
 
+
+---
+
 2 Install backend dependencies
 
 cd server
 npm install
+
+
+---
 
 3 Install frontend dependencies
 
 cd client
 npm install
 
+
+---
+
 4 Run backend
 
 cd server
 npm run server
 
+
+---
+
 5 Run frontend
 
 cd client
 npm run dev
+
+
+---
 
 🔐 Environment Variables
 
@@ -190,6 +224,26 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 
+---
+
+📸 Screenshots
+
+You can add screenshots of the following pages:
+
+Homepage
+
+Shop page
+
+Product details page
+
+Admin dashboard
+
+Diamond AI predictor
+
+
+
+---
+
 👩‍💻 Author
 
 Swathi Mudavath
@@ -200,6 +254,8 @@ IIT Kharagpur
 GitHub
 https://github.com/Mudavath-Swathi
 
+
+---
 
 🚀 Future Improvements
 
@@ -215,7 +271,13 @@ Order tracking system
 
 
 
+---
+
 ⭐ If you like this project
 
 Please consider giving it a star on GitHub ⭐
 
+
+---
+
+If you want, I can also give you a much more impressive README (with badges, tech icons, and portfolio style) that makes recruiters stop and open your project immediately. 🚀
