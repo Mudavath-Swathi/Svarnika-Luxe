@@ -276,8 +276,3 @@ Order tracking system
 ⭐ If you like this project
 
 Please consider giving it a star on GitHub ⭐
-
-
----
-
-If you want, I can also give you a much more impressive README (with badges, tech icons, and portfolio style) that makes recruiters stop and open your project immediately. 🚀
